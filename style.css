@@ -1,0 +1,19 @@
+input{
+    border:2px solid blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    
+}
+.result{
+    box-shadow: 10px 10px 5px grey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: antiquewhite;
+}
